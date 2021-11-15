@@ -9,6 +9,7 @@ You can see the [OpenPose Documentation](https://github.com/CMU-Perceptual-Compu
 ## <div> Requirements</div>
 
 - **Python >= 3.7.0**
+- **OpenCV Library**
 - **OpenPose Library**
 - **Tensorflow Library**
 
