@@ -14,7 +14,7 @@ You can see the [OpenPose Documentation](https://github.com/CMU-Perceptual-Compu
 
 ## <div>Demo</div>
 
-You can see the Demo or Simulation from this project in youtube.com. If you want to download the training model that I made, you can click this link (https://intip.in/TrainedModel).
+You can see the Demo or Simulation from this project in this link (https://youtu.be/Mk21oLwLT4k). If you want to download the training model that I made, you can click this link (https://intip.in/TrainedModel).
 
 ## <div> Suggestion</div>
 
